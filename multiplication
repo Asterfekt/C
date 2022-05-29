@@ -1,0 +1,16 @@
+//multiplication table 100 Numbers
+#include <stdio.h>
+int main ()
+{
+int Count=0;
+int i,j;
+for (i=1;i<=10;i++){ //columns
+    for (j=1;j<=10;j++)//lines
+        {
+            Count=i*j;
+            printf("%d\t",Count); // "\t" tab
+        }
+        printf("\n");
+    }
+return 0;
+}
