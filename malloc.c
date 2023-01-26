@@ -15,7 +15,7 @@ int main ()
     scanf("%s",text);
     printf("Message length: %d \n",strlen(text));
     printf("some_char: %c\n",char_1);
-
+free(text);
 
 return 0;
 }
