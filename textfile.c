@@ -6,7 +6,7 @@ int main ()
 
     FILE* f;
 
-    f=fopen("hello.txt","w");
+    f=fopen("hello.txt","a");
 
 
     fprintf(f,"Hello world");
