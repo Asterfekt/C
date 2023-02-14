@@ -1,0 +1,100 @@
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">smutny</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">sad</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">sad</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">zdenerwowany</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">irritated</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">irritated</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">zazdrosny</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">jealous</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">jealous</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">nerwowy</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">nervous</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">nervous</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">zniesmaczony</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">disgusted</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">disgusted</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">znudzony</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">bored</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">bored</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">marszczyć czoło</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">to frown</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">to frown</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">niesympatyczny</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">unpleasant</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">unpleasant</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">zazdrosny</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">envious</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">envious</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">arograncki</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">arrogant</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">arrogant</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">wrażliwy</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">sensitive</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">sensitive</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">dumny</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">proud</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">proud</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">podekscytowany</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">excited</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">excited</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">zamieszany</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">confused</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">confused</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">zamyślony</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">pensive</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">pensive</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">słodki</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">cute</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">cute</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">pewny siebie</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">confident</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">confident</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">tolerancyjny</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">tolerant</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">tolerant</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">przyjazny</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">friendly</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">friendly</pitch></rate></voice>
+
+
+<voice required="Name=Microsoft Paulina Desktop"><rate absspeed="0"><pitch absmiddle="0">miły</pitch></rate></voice><silence msec="1000"/
+><voice required="Name=Microsoft Hazel Desktop"><rate absspeed="0"><pitch absmiddle="0">nice</pitch></rate></voice><silence msec="2000"/>
+<voice required="Name=Microsoft Hazel Desktop"><rate absspeed="-5"><pitch absmiddle="0">nice</pitch></rate></voice>
+
+
